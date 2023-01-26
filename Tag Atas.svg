@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="292.762" height="37.951" viewBox="0 0 292.762 37.951">
+  <defs>
+    <filter id="Path_1168" x="12.654" y="6.127" width="33.717" height="30.77" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2148" x="116.284" y="7.143" width="32.346" height="27.863" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2135" data-name="Group 2135" transform="translate(0.497 0.246)">
+    <rect id="Rectangle_161" data-name="Rectangle 161" width="292.762" height="37.951" rx="8" transform="translate(-0.497 -0.246)" fill="#fff"/>
+    <g id="Group_1292" data-name="Group 1292" transform="translate(15.503 3.795)">
+      <g id="Group_1283" data-name="Group 1283" transform="translate(0 0.959)">
+        <g id="Group_1297" data-name="Group 1297" transform="translate(0.542 1.626)">
+          <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="13.283" cy="13.554" rx="13.283" ry="13.554" transform="translate(0 0)" fill="#ffa72c"/>
+          <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="13.283" cy="13.554" rx="13.283" ry="13.554" transform="translate(34.698 0)" fill="#ffa72c"/>
+          <ellipse id="Ellipse_1-3" data-name="Ellipse 1" cx="13.012" cy="13.554" rx="13.012" ry="13.554" transform="translate(69.396 0)" fill="#ffa72c"/>
+          <ellipse id="Ellipse_1-4" data-name="Ellipse 1" cx="13.283" cy="13.554" rx="13.283" ry="13.554" transform="translate(103.551 0)" fill="#ffa72c"/>
+        </g>
+        <g id="Group_1279" data-name="Group 1279" transform="translate(0 0)">
+          <ellipse id="Ellipse_1-5" data-name="Ellipse 1" cx="13.012" cy="13.283" rx="13.012" ry="13.283" fill="#141414"/>
+          <g transform="matrix(1, 0, 0, 1, -16, -5)" filter="url(#Path_1168)">
+            <path id="Path_1168-2" data-name="Path 1168" d="M15.717,49.512a6.718,6.718,0,0,1-1.857.509,3.2,3.2,0,0,0,1.417-1.781,6.439,6.439,0,0,1-2.043.78,3.222,3.222,0,0,0-5.574,2.2,3.318,3.318,0,0,0,.075.735,9.12,9.12,0,0,1-6.641-3.37,3.223,3.223,0,0,0,.99,4.306,3.182,3.182,0,0,1-1.456-.4v.035A3.237,3.237,0,0,0,3.21,55.7a3.216,3.216,0,0,1-.845.106,2.849,2.849,0,0,1-.61-.055,3.253,3.253,0,0,0,3.011,2.245,6.474,6.474,0,0,1-4,1.374A6.034,6.034,0,0,1,0,59.324,9.071,9.071,0,0,0,4.943,60.77,9.108,9.108,0,0,0,14.114,51.6c0-.142,0-.28-.012-.417A6.428,6.428,0,0,0,15.717,49.512Z" transform="translate(21.65 -35.87)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_1280" data-name="Group 1280" transform="translate(33.613 0)">
+          <ellipse id="Ellipse_1-6" data-name="Ellipse 1" cx="13.554" cy="13.283" rx="13.554" ry="13.283" transform="translate(0)" fill="#141414"/>
+          <g id="instagram" transform="translate(5.568 5.095)">
+            <path id="Path_2149" data-name="Path 2149" d="M16.079,4.608a5.727,5.727,0,0,0-.364-1.9A4.015,4.015,0,0,0,13.421.413a5.742,5.742,0,0,0-1.9-.364C10.681.009,10.414,0,8.287,0S5.892.009,5.056.046a5.729,5.729,0,0,0-1.9.364,3.824,3.824,0,0,0-1.39.906A3.859,3.859,0,0,0,.862,2.7,5.742,5.742,0,0,0,.5,4.6C.458,5.444.449,5.71.449,7.838s.009,2.394.046,3.23a5.727,5.727,0,0,0,.364,1.9,4.014,4.014,0,0,0,2.293,2.293,5.742,5.742,0,0,0,1.9.364c.836.037,1.1.046,3.23.046s2.394-.009,3.23-.046a5.726,5.726,0,0,0,1.9-.364,4.009,4.009,0,0,0,2.293-2.293,5.746,5.746,0,0,0,.364-1.9c.037-.836.046-1.1.046-3.23s0-2.394-.04-3.23Zm-1.411,6.4a4.3,4.3,0,0,1-.269,1.454,2.6,2.6,0,0,1-1.488,1.488,4.311,4.311,0,0,1-1.454.269c-.827.037-1.075.046-3.166.046s-2.342-.009-3.166-.046a4.294,4.294,0,0,1-1.454-.269,2.412,2.412,0,0,1-.9-.585,2.437,2.437,0,0,1-.585-.9,4.312,4.312,0,0,1-.269-1.454c-.037-.827-.046-1.075-.046-3.166s.009-2.342.046-3.166a4.294,4.294,0,0,1,.269-1.454,2.382,2.382,0,0,1,.588-.9,2.433,2.433,0,0,1,.9-.585A4.314,4.314,0,0,1,5.127,1.47c.827-.037,1.075-.046,3.166-.046s2.342.009,3.166.046a4.3,4.3,0,0,1,1.454.269,2.41,2.41,0,0,1,.9.585,2.436,2.436,0,0,1,.585.9,4.313,4.313,0,0,1,.269,1.454c.037.827.046,1.075.046,3.166s-.009,2.336-.046,3.163Zm0,0" transform="translate(-0.449 0)" fill="#fff"/>
+            <path id="Path_2150" data-name="Path 2150" d="M128.975,124.5A4.026,4.026,0,1,0,133,128.526,4.027,4.027,0,0,0,128.975,124.5Zm0,6.638a2.612,2.612,0,1,1,2.612-2.612A2.612,2.612,0,0,1,128.975,131.138Zm0,0" transform="translate(-121.137 -120.688)" fill="#fff"/>
+            <path id="Path_2151" data-name="Path 2151" d="M364.33,89.542a.94.94,0,1,1-.94-.94A.94.94,0,0,1,364.33,89.542Zm0,0" transform="translate(-351.366 -85.889)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_1281" data-name="Group 1281" transform="translate(68.311 0)">
+          <ellipse id="Ellipse_1-7" data-name="Ellipse 1" cx="13.554" cy="13.283" rx="13.554" ry="13.283" transform="translate(0)" fill="#141414"/>
+          <g id="facebook-app-symbol" transform="translate(9.478 6.111)">
+            <path id="f_1_" d="M42.114,14.311V7.783H44.3l.329-2.545H42.114V3.614c0-.736.2-1.238,1.261-1.238h1.346V.1A18.255,18.255,0,0,0,42.759,0a3.065,3.065,0,0,0-3.272,3.362V5.239h-2.2V7.783h2.2v6.527Z" transform="translate(-37.29)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_1282" data-name="Group 1282" transform="translate(103.009 0)">
+          <circle id="Ellipse_1-8" data-name="Ellipse 1" cx="13.283" cy="13.283" r="13.283" transform="translate(0)" fill="#141414"/>
+          <g id="_002-youtube" data-name="002-youtube" transform="translate(6.275 8.143)">
+            <g id="Group_1275" data-name="Group 1275" transform="translate(0)">
+              <g transform="matrix(1, 0, 0, 1, -125.28, -13.14)" filter="url(#Path_2148)">
+                <path id="Path_2148-2" data-name="Path 2148" d="M13.736,80.95c-.389-.692-.811-.819-1.671-.868S9.046,80,7.175,80s-4.036.024-4.894.082S1,80.257.607,80.95A8.462,8.462,0,0,0,0,84.929v.007a8.431,8.431,0,0,0,.607,3.971c.393.692.815.818,1.673.876s3.02.08,4.895.08,4.031-.03,4.891-.079,1.282-.184,1.671-.876a8.378,8.378,0,0,0,.609-3.971V84.93A8.4,8.4,0,0,0,13.736,80.95ZM5.38,87.621v-5.38l4.483,2.69Z" transform="translate(125.28 -66.86)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="smansabakta" transform="translate(199.165 21.959)" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.014em"><tspan x="-61.976" y="0">smansabakta</tspan></text>
+    </g>
+  </g>
+</svg>
